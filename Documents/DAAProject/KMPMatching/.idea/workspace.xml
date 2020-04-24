@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d1d4a7-bc4e-4c63-8cdd-bbe3305fefe5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ajc1VqewQkU2iwKYvVZ1aVj3Mt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
+      <module name="KMPMatching" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7d1d4a7-bc4e-4c63-8cdd-bbe3305fefe5" name="Default Changelist" comment="" />
+      <created>1587252228717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587252228717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="342" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587277272706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="342" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1587277272706" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1587674247613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587674247613" />
+    <state width="670" height="213" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1587620422385" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1587674247612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587674247612" />
+    <state width="670" height="213" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1587620422383" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1587674247612">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587674247612" />
+    <state width="670" height="213" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1587620422383" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1587674247613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587674247613" />
+    <state width="670" height="213" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1587620422384" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1587656503236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587656503236" />
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1587333708745" />
+    <state x="0" y="58" key="new project wizard" timestamp="1587333740808">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="0" y="58" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1587333740808" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KMPMatching$Main.ic" NAME="Main Coverage Results" MODIFIED="1587278096697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

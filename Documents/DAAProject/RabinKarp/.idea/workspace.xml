@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c0a6351-7a5c-467d-88ba-73b7e72375f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1amHF5wkrZR4FFIQCPYfftX9b90" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
+      <module name="RabinKarp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c0a6351-7a5c-467d-88ba-73b7e72375f2" name="Default Changelist" comment="" />
+      <created>1587333741038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587333741038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="310" key="GridCell.Tab.0.bottom" timestamp="1587674243377">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="310" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587674243377" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1587364952765" />
+    <state width="703" height="280" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587500933501" />
+    <state width="703" height="245" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1587500322698" />
+    <state width="1398" height="310" key="GridCell.Tab.0.center" timestamp="1587674243376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="310" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587674243376" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1587364952764" />
+    <state width="703" height="280" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587500933498" />
+    <state width="703" height="245" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1587500322697" />
+    <state width="1398" height="310" key="GridCell.Tab.0.left" timestamp="1587674243375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="310" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587674243375" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1587364952763" />
+    <state width="703" height="280" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587500933497" />
+    <state width="703" height="245" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1587500322697" />
+    <state width="1398" height="310" key="GridCell.Tab.0.right" timestamp="1587674243376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="310" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587674243376" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1587364952765" />
+    <state width="703" height="280" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587500933500" />
+    <state width="703" height="245" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1587500322698" />
+    <state x="194" y="58" key="new project wizard" timestamp="1587499977649">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="194" y="58" key="new project wizard/0.23.1440.830@0.23.1440.830" timestamp="1587499977649" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RabinKarp$Main.ic" NAME="Main Coverage Results" MODIFIED="1587618646632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
