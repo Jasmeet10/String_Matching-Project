@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11d93ad8-64c6-45bb-a23b-774fda5fd926" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMHpN2GdGgmyuKbMyoFt64YGSE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
+      <module name="NaiveMatching" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d93ad8-64c6-45bb-a23b-774fda5fd926" name="Default Changelist" comment="" />
+      <created>1584642224918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584642224918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1587674238236">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587674238236" />
+    <state width="766" height="205" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1584651116845" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1587674238234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587674238234" />
+    <state width="766" height="205" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1584651116844" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1587674238234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587674238234" />
+    <state width="766" height="205" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1584651116843" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1587674238235">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587674238235" />
+    <state width="766" height="205" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1584651116844" />
+    <state x="654" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1587447073043">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="654" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1587447073043" />
+    <state x="194" y="94" key="new project wizard" timestamp="1587448217531">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="194" y="94" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1587448217531" />
+    <state x="194" y="94" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1587252228615" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NaiveMatching$Main.ic" NAME="Main Coverage Results" MODIFIED="1584650580246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
